@@ -70,7 +70,7 @@ Menu (☰) → **Translate document** → **Settings**
 | DeepL API key | Required to use DeepL | *(empty)* |
 | Translation engine | `google` or `deepl` | `google` |
 
-Settings are saved to `koreader/settings/translatordoc.lua`.
+Settings are saved to `koreader/settings/translator.lua`.
 
 ---
 
